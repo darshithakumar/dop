@@ -1,2 +1,3 @@
 print("nale baa")
-print("This is awesome")
+print("Sucker")
+print("Let's learn Python!")
