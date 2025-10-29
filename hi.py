@@ -1,2 +1,2 @@
 print("nale baa")
-print("नाले बा")
+print("This is awesome")
